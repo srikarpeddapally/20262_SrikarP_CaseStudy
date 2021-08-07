@@ -1,0 +1,7 @@
+Job tracking system
+1.	As a user, I should be able to create a task & assign to task owner
+2.	System should send notification to the concern, once task is assigned 
+3.	As a user, I should be able to prioritize tasks
+4.	As a user, I should be able to add internal notes and bookmark tasks
+5.	As a user, I should be able to create filters to make searching tasks easier 
+6.	As a user, I should be able to track completion of all tasks
